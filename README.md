@@ -1,3 +1,5 @@
+My profile: <br>
+<a href="https://github.com/NPIPHI/">https://github.com/NPIPHI/</a> <br>
 My projects: <br>
 A genetic algorithm that learns how to play snake: <a href="https://npiphi.github.io/Snake-AI/">https://npiphi.github.io/Snake-AI/</a>, Source: <a href="https://github.com/NPIPHI/Snake-AI">https://github.com/NPIPHI/Snake-AI</a><br>
 A simple fully connected network that charaterizes what you draw: <a href="https://npiphi.github.io/Gradient-Descent/">https://npiphi.github.io/Gradient-Descent</a>, Source: <a href="https://github.com/NPIPHI/Gradient-Descent">https://github.com/NPIPHI/Gradient-Descent</a><br>
